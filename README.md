@@ -7,7 +7,7 @@
 
 
 
-## 🌱 Bioinformatician | Bioinformatics Scientist
+## 🌱 Bioinformatician 
 
 I leverage a strong background in computational biology to manage and analyze large-scale genomic datasets, perform sequence alignment, and apply statistical methods to draw insightful conclusions.
 

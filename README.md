@@ -22,6 +22,16 @@ I leverage a strong background in computational biology to manage and analyze la
 
 ---
 
+### 🎓 Education
+- **Master of Science (M.Sc.) in Agrobiotechnology**  
+  [University of Giessen], [Ongoing]
+- **Master of Science (M.Sc.) in Genetics**  
+  [Sher-e-Bangla Agricultural University], [2011 - 2013]
+- **Bachelor of Science (B.Sc.) in Agriculture**  
+  [Hajee Mohammad Danesh Science and Technology University], [2007 - 2010]
+
+---
+
 ### 🔬 Skills & Tools
 - **Programming:** R, Python, Bash
 - **Platforms:** Linux

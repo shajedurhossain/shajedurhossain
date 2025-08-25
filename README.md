@@ -1,6 +1,9 @@
 ## Hi there 👋 , I'm Shajedur Hossain
 
 <!--
+
+**shajedurhossain/shajedurhossain** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
 **shajedurhossain/shajedurhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -46,5 +49,4 @@ I love playing Cricket, Badminton, Tennis, Table Tennis, and more.
 ---
 
 
-**shajedurhossain/shajedurhossain** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+

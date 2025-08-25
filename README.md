@@ -3,14 +3,49 @@
 <!--
 **shajedurhossain/shajedurhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Shajedur Hossain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Bioinformatician | Bioinformatics Scientist
+
+I leverage a strong background in computational biology to manage and analyze large-scale genomic datasets, perform sequence alignment, and apply statistical methods to draw insightful conclusions.
+
+---
+
+### 🧬 About Me
+- **Profession:** Bioinformatician, Bioinformatics Scientist
+- **Expertise:** R, Python, Linux, Bash, RNA-seq, DESeq2
+- **Research:**  
+  *Master's Thesis:*  
+  **"Investigation of transcriptomic response to cold stress in Sorghum"**
+
+---
+
+### 🔬 Skills & Tools
+- **Programming:** R, Python, Bash
+- **Platforms:** Linux
+- **Bioinformatics:** RNA-seq, DESeq2, Sequence Alignment
+- **Data Analysis:** Genomic Data Management, Statistical Analysis
+
+---
+
+### 🌟 Featured Project
+- **Master's Thesis:**  
+  *Investigation of transcriptomic response to cold stress in Sorghum*  
+  *Exploring gene expression changes under cold stress using RNA-seq and advanced statistical methods.*
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/md-shajedur-hossain/)
+
+---
+
+### 🏏 Hobbies & Interests
+When I'm not diving into genomic data, I'm out on the field or court!  
+I love playing Cricket, Badminton, Tennis, Table Tennis, and more.
+
+---
+
+<!--
+**shajedurhossain/shajedurhossain** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
